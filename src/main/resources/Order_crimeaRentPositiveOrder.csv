@@ -1,0 +1,13 @@
+CityTakeAcar,CityReturnAcar,DaysOfRent,AmountOfClickOnRightArrowInsideReturnCalendar,PromoCodeNumber,DoWeUseApromocode,TimeOfRent,TimePeriodConsole
+Алуш,Бахчисарай,10,9, ,do not use,RoundToLowSideDefault,13:00-13:00
+Алушта,Бахчисарай,3,2, ,do not use,RoundToLowSideDefault,13:00-13:00
+Алушта,Бахчисарай,7,6, ,do not use,RoundToLowSideDefault,13:00-13:00
+Симферополь,Симферополь,1,0, ,do not use,RoundToLowSideDefault,13:00-13:00
+Симферополь,Симферополь,3,2, ,do not use,RoundToLowSideDefault,13:00-13:00
+Симферополь,Симферополь,7,6, ,do not use,RoundToLowSideDefault,13:00-13:00
+Симферополь,Бахчисарай,1,0, ,do not use,RoundToLowSideDefault,13:00-13:00
+Симферополь,Бахчисарай,3,2, ,do not use,RoundToLowSideDefault,13:00-13:00
+Симферополь,Бахчисарай,7,6, ,do not use,RoundToLowSideDefault,13:00-13:00
+Бахчисарай,Симферополь,1,0, ,do not use,RoundToLowSideDefault,13:00-13:00
+Бахчисарай,Симферополь,3,2, ,do not use,RoundToLowSideDefault,13:00-13:00
+Бахчисарай,Симферополь,7,6, ,do not use,RoundToLowSideDefault,13:00-13:00
